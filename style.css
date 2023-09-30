@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@500;700&family=Outfit:wght@400;700&family=Overpass:wght@400;700&family=Poppins:wght@300;400;500;600;700&family=Red+Hat+Text:wght@300;400;600;700&display=swap');
+
+* {
+    font-family: 'Epilogue', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Overpass', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Red Hat Text', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    height: 100%;
+}
+
+.nav-link:hover {
+    color: black !important;
+}
+
+#register {
+    width: 100px;
+    height: 40px;
+}
+
+#register:hover {
+    color: black !important;
+}
+
+
+main h1 {
+    font-weight: 700;
+    font-size: 100px;
+    text-wrap: balance;
+}
+
+.fs-5 {
+    font-weight: 600;
+    width: 530px;
+    text-wrap: balance;
+
+}
+
+#learn {
+    border-radius: 20px;
+}
+
+#learn:hover {
+    background: black;
+    color: white !important;
+}
+
+#footer {
+    position: relative;
+    top: 5%;
+}
+
